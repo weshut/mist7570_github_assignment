@@ -122,6 +122,10 @@ Instructions:
     <td>Josh</td>
     <td>D</td>
 </tr>
+<tr>
+	<td>Westin</td>
+	<td>H</td>
+</tr>
 </table>
 </body>
 </html>
