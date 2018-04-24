@@ -146,6 +146,10 @@ Instructions:
 	<td>E</td>
 </tr>
 
+<tr>
+	<td>Westin</td>
+	<td>H</td>
+</tr>
 
 
 </table>
